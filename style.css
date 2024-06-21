@@ -38,14 +38,14 @@ nav ul li a{
     transition: 0.5s;
 }
 nav ul li a:hover{
-    color: rgb(20, 57, 223);
+    color: rgb(223, 152, 20);
 }
 img{
    width: 200px;
 
 }
 button{
-    background-color: blue;
+    background-color: rgb(255, 102, 0);
     color: honeydew;
     border-radius: 4px;
     width: 4rem;
@@ -54,4 +54,16 @@ button{
 }
 .logo{
     color: black;
+}
+span{
+    color: rgb(209, 130, 10);
+}
+section{
+    width: 800px;
+    padding: 4rem;
+    margin: 10px;
+}
+..img{
+
+justify-content:end;
 }
